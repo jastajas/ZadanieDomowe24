@@ -1,2 +1,2 @@
-public class IncorrectPeselException extends RuntimeException {
+public class IncorrectPeselException extends Exception {
 }
